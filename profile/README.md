@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://simtekton.com/brand/simtekton-mark.png" alt="Simtekton logo" width="84">
+
 # Simtekton
 
 ### AI-assisted industrial simulation for engineers
@@ -10,7 +12,7 @@ Build, run and share interactive simulations in your browser.
 
 </div>
 
-[![A robot and conveyors in a Simtekton simulation](https://simtekton.com/simulations/robot.png)](https://simtekton.com/simulations)
+[![A robot in the Simtekton simulation editor](https://simtekton.com/editor/capabilities/robot-motion.jpg)](https://simtekton.com/simulations)
 
 ## From concept to working simulation
 
