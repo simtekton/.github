@@ -1,13 +1,33 @@
+<div align="center">
+
 # Simtekton
 
-**AI-assisted industrial simulation for engineers.**
+### AI-assisted industrial simulation for engineers
 
-Simtekton brings simulation into your browser, helping teams explore how an automation concept works. Build and run interactive models with robots, conveyors, sensors and I/O; test motion and sequences; and share a simulation for others to review.
+Build, run and share interactive simulations in your browser.
 
-## Explore Simtekton
+[Explore simulations](https://simtekton.com/simulations) &nbsp; · &nbsp; [Visit Simtekton](https://simtekton.com) &nbsp; · &nbsp; [Watch on YouTube](https://www.youtube.com/@simtekton)
 
-- [Visit simtekton.com](https://simtekton.com) to learn more.
-- [Explore simulation examples](https://simtekton.com/simulations) in your browser.
-- [Watch Simtekton on YouTube](https://www.youtube.com/@simtekton).
+</div>
 
-From early concepts to engineering review, make your ideas easier to explore and communicate.
+[![A robot and conveyors in a Simtekton simulation](https://simtekton.com/simulations/robot.png)](https://simtekton.com/simulations)
+
+## From concept to working simulation
+
+Simtekton helps engineers explore how an automation concept works. Bring geometry into a scene, configure components, test motion and sequences, and share an interactive model with your team.
+
+| Build and configure | Run and explore | Share and review |
+| :--- | :--- | :--- |
+| Work with robots, conveyors, sensors and I/O. | See motion and sequences in a working simulation. | Share an interactive viewer for others to explore. |
+
+The AI assistant can help configure components and write TypeScript behavior. Review and edit the result in the editor.
+
+---
+
+<div align="center">
+
+**See your ideas in motion.**
+
+[Explore simulation examples →](https://simtekton.com/simulations)
+
+</div>
